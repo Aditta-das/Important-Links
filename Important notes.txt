@@ -1,0 +1,56 @@
+ML Cheat Sheet 
+https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f
+
+Preprocessing (Outlier):
+https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+
+Outlier Removing(Preprocessing):
+https://haridas.in/outlier-removal-clustering.html
+
+Synthetic data
+https://towardsdatascience.com/synthetic-data-applications-in-data-privacy-and-machine-learning-1078bb5dc1a7
+
+Cost, Loss difference and othe differences
+https://medium.com/@zeeshanmulla/cost-activation-loss-function-neural-network-deep-learning-what-are-these-91167825a4de
+
+Random Forest Explained--->Coursera
+https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively
+
+Pipeline ML
+https://towardsdatascience.com/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d
+
+6 Mistake tells you a rookie
+https://towardsdatascience.com/6-sklearn-mistakes-that-silently-tell-you-are-a-rookie-84fa55f2b9dd
+
+the effect of standardization for machine learning algorithms
+https://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+
+Discover Feature Engineering, How to Engineer Features and How to Get Good at It
+https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+
+Gradient Descent Algorithm and its variants
+https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3
+
+Skewed Data problem
+https://towardsdatascience.com/skewed-data-a-problem-to-your-statistical-model-9a6b5bb74e37
+
+19 sklearn features
+https://towardsdatascience.com/19-sklearn-features-you-didnt-know-existed-p-guarantee-0-75-79a5e9704dad
+
+Understanding Learning Rates and How It Improves Performance in Deep Learning
+https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10
+
+What, why, when use which activation
+https://medium.com/@snaily16/what-why-and-which-activation-functions-b2bf748c0441
+
+Part 1: Finding Cost Function from nn
+https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9
+
+part2:  How Do You Find the Partial Derivative of a Function?
+https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-ac15e178bbd
+
+Part3: Finding the Gradient of a Vector Function
+https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-d002440227fb
+
+Part4: Gradient Descent  Manually
+https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b
