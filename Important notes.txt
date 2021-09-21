@@ -57,3 +57,6 @@ https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0
 
 The reason behind moving in the direction opposite to the Gradient
 https://hackernoon.com/the-reason-behind-moving-in-the-direction-opposite-to-the-gradient-f9566b95370b
+
+Colah
+http://colah.github.io/
