@@ -60,3 +60,6 @@ https://hackernoon.com/the-reason-behind-moving-in-the-direction-opposite-to-the
 
 Colah
 http://colah.github.io/
+
+Rules-of-thumb for building a Neural Network
+https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
