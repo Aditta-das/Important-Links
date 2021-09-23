@@ -63,3 +63,7 @@ http://colah.github.io/
 
 Rules-of-thumb for building a Neural Network
 https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
+
+Math Behind Gradient Descent
+https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+
