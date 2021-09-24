@@ -67,3 +67,5 @@ https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-9
 Math Behind Gradient Descent
 https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
 
+An Overview of gradient descent algorithom
+https://ruder.io/optimizing-gradient-descent/
