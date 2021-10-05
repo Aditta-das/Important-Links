@@ -69,3 +69,7 @@ https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-des
 
 An Overview of gradient descent algorithom
 https://ruder.io/optimizing-gradient-descent/
+
+Pandas Memory Usage
+https://towardsdatascience.com/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b
+https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af
