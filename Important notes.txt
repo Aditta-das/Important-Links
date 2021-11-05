@@ -4,6 +4,9 @@ https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2b
 Preprocessing (Outlier):
 https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
 
+Top 10 Activation Function's Advantages & Disadvantages
+https://www.linkedin.com/pulse/top-10-activation-functions-advantages-disadvantages-dash/
+
 Outlier Removing(Preprocessing):
 https://haridas.in/outlier-removal-clustering.html
 
