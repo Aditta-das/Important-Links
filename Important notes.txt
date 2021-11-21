@@ -76,3 +76,7 @@ https://ruder.io/optimizing-gradient-descent/
 Pandas Memory Usage
 https://towardsdatascience.com/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b
 https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af
+
+
+Audio Deep Learning Made Simple: Automatic Speech Recognition (ASR), How it Works
+https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706
