@@ -80,3 +80,21 @@ https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-data
 
 Audio Deep Learning Made Simple: Automatic Speech Recognition (ASR), How it Works
 https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706
+
+
+Hidden Markov Model
+https://towardsdatascience.com/hidden-markov-model-hmm-simple-explanation-in-high-level-b8722fa1a0d5
+
+Hidden Markov Model
+https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab
+
+Hidden Markov Model
+https://web.stanford.edu/~jurafsky/slp3/A.pdf
+https://medium.com/@kangeugine/hidden-markov-model-7681c22f5b9
+https://www.youtube.com/watch?v=kqSzLo9fenk
+https://www.youtube.com/watch?v=OimYMw2qleU
+https://www.youtube.com/watch?v=9EHWTHJkqUY #important lecture
+https://www.youtube.com/watch?v=U0XtE4_QLXI # basic introduction to markov model for speech recognition
+https://www.youtube.com/watch?v=0GquZGapJnc # part 1
+https://www.youtube.com/watch?v=26d2dfKjSng # part 2
+drive : https://drive.google.com/drive/u/0/folders/1tSXmRSL7up48ybTQx7PHJ78qwOgeyRoh
