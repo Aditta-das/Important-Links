@@ -98,3 +98,4 @@ https://www.youtube.com/watch?v=U0XtE4_QLXI # basic introduction to markov model
 https://www.youtube.com/watch?v=0GquZGapJnc # part 1
 https://www.youtube.com/watch?v=26d2dfKjSng # part 2
 drive : https://drive.google.com/drive/u/0/folders/1tSXmRSL7up48ybTQx7PHJ78qwOgeyRoh
+https://www.jigsawacademy.com/blogs/data-science/hidden-markov-model
