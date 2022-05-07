@@ -147,3 +147,36 @@ Else
   - Sort input for O(nlogn) time and O(1) space
 '''
 
+
+
+
+
+
+Getting Ready for a Software Engineer problem-solving interview with top tech companies!
+
+Here are the topics you need to be focused on most:
+1- Concepts:
+- Big O Time & Space
+- Memory ( Stack vs. Heap )
+- Bit Manipulation
+- String Processing
+- Recursion
+- DP (Dynamic Programming)
+
+2- Data Structures:
+- Linked List
+- Vectors & ArrayList
+- Stack & Queue
+- Hash Table (Hash Map)
+- Tree & Graph
+- Heap
+
+3- Algorithms:
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- Binary Search
+- Sorting Algorithms (at least Quick Sort & Merge Sort)
+
+Go over them one by one, start from the concept and very basic examples and then harder problems and so on.
+
+Then problem-solving interviews will be a piece of cake...
